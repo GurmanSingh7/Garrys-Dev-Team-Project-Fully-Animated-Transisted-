@@ -100,8 +100,8 @@ If you like this project:
 
 ## 📬 Contact
 
-📧 [your-email@example.com](mailto:your-email@example.com)
-🔗 https://linkedin.com/in/your-profile
+📧 [gurmansingh01@myyahoo.com](mailto:your-email@example.com)
+🔗 www.linkedin.com/in/gurmansingh101
 
 ---
 
