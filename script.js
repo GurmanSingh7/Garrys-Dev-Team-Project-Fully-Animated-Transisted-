@@ -1,4 +1,3 @@
-
         // Rain Effect
         const rainCanvas = document.getElementById('rainCanvas');
         const ctx = rainCanvas.getContext('2d');
