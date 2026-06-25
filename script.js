@@ -17,7 +17,9 @@
 
             reset() {
                 this.x = Math.random() * rainCanvas.width;
+                    
                 this.y = Math.random() * -rainCanvas.height;
+                    
                 this.speed = Math.random() * 8 + 12;
                 this.length = Math.random() * 20 + 10;
                 this.opacity = Math.random() * 0.3 + 0.1;
