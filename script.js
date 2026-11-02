@@ -6,12 +6,14 @@
         let raindrops = [];
         let animationId = null;
 
-        function resizeCanvas() {
+        function resizeCanvas() 
+        {
             rainCanvas.width = window.innerWidth;
             rainCanvas.height = window.innerHeight;
         }
 
-        class Raindrop {
+        class Raindrop 
+            {
             constructor() {
                 this.reset();
             }
